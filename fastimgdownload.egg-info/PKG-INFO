@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: fastimgdownload
+Version: 1.0
+Summary: Python module that uses requests module to simplify the downloading of image
+Author: wCupped
+Author-email: djpior13@gmail.com
+License: None
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+
+Python module that uses requests module to simplify the downloading of image
