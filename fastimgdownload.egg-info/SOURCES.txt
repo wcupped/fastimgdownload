@@ -1,9 +1,0 @@
-setup.cfg
-setup.py
-fastimgdownload/FDI.py
-fastimgdownload/__init__.py
-fastimgdownload.egg-info/PKG-INFO
-fastimgdownload.egg-info/SOURCES.txt
-fastimgdownload.egg-info/dependency_links.txt
-fastimgdownload.egg-info/requires.txt
-fastimgdownload.egg-info/top_level.txt
