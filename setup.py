@@ -7,7 +7,7 @@ from setuptools import setup
 :copyright: (c) 2024 wCupped
 """
 
-version = '1.0'
+version = '1.1'
 '''
 with open('README.md', encoding='utf-8') as f:
     long_description = f.read()
@@ -20,7 +20,6 @@ setup(
     version=version,
 
     author='wCupped',
-    author_email='djpior13@gmail.com',
 
     description=(
         u'Python module that uses requests module to simplify the downloading of image'
