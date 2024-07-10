@@ -14,7 +14,7 @@ download('https://cdn.discordapp.com/attachments/1228709121902116874/12599183619
 ```
 
 # Explanation
-### Fast Image Downloader (FID) uses module requests but FID simplifies the download of image from the internet. For example, we get the url of the image. We're importing the library and then calling the function 'download' and in the brackets we paste attributes:
+### Fast Image Downloader (FID) uses module requests but FID simplifies the download of image from the internet. For example, we get the url of the image. We're importing the library and then calling the function 'download' and in the brackets we paste parameters:
 ### Url (str or var), the name of image that will be saved (str or var) and extension (str or var). There are two of them right now (jpg, png)
 
 # Description
